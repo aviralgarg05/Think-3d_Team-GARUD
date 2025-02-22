@@ -97,8 +97,8 @@ Then run the script again.
 ---
 
 ## 🔗 **Resources**
-- 🔹 [TripoSR by Stability AI](https://github.com/Stability-AI/TripoSR)
-- 🔹 [TorchMCubes](https://github.com/tatsy/torchmcubes)
+- 🔹 [TripoSR by Stability AI]([https://github.com/Stability-AI/TripoSR](https://stability.ai/news/triposr-3d-generation))
+- 🔹 [TorchMCubes]()
 - 🔹 [Google Gemini AI](https://ai.google.dev/)
 
 ---
